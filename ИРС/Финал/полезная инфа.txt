@@ -1,0 +1,17 @@
+robocups
+
+Метод Хаффа
+
+Нейросеть YOLOv4
+
+https://youtube.com/playlist?list=PLVFGVo0DNh5ek970Foh_9Dw2Anx2ps8it
+
+https://github.com/opencv/opencv/issues/21408
+
+https://www.youtube.com/@BeyondCurriculum
+
+маска от контура
+
+pixhawk контроллер - замена РОББО 
+
+метод ближайших соседей (машинное обучение)
